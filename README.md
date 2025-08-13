@@ -34,13 +34,13 @@ OnlyCabs is a cross-platform ride-hailing application designed to connect users 
 
 ### Steps
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/your-username/onlycabs.git
    cd onlycabs
    ```
 
 2. Install dependencies for the frontend:
-   ```bash
+   ```
    npm install
    ```
 
@@ -49,12 +49,12 @@ OnlyCabs is a cross-platform ride-hailing application designed to connect users 
    - Add your Firebase configuration to `firebaseConfig.ts`.
 
 4. Run the app:
-   ```bash
+   ```
    expo start
    ```
 
 5. (Optional) Start the backend:
-   ```bash
+   ```
    cd backend
    python server.py
    ```
@@ -90,15 +90,15 @@ taxie/
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
 2. Create a new branch:
-   ```bash
+   ```
    git checkout -b feature-name
    ```
 3. Commit your changes:
-   ```bash
+   ```
    git commit -m "Add feature-name"
    ```
 4. Push to your branch:
-   ```bash
+   ```
    git push origin feature-name
    ```
 5. Open a pull request.
@@ -108,5 +108,7 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
+```
+[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/1393141/862a8c4c-a0f0-442c-8326-e8b61609a477/package-lock.json
+[5] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/1393141/aa723131-530a-4b74-acbd-2139d910d253/README.md
+[6] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/1393141/b7eb5ac4-c62a-4983-ade9-ffe5a76cc883/tsconfig.json
